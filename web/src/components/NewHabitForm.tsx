@@ -81,7 +81,7 @@ export function NewHabitForm() {
         id="title"
         placeholder="ex.: Exercicios, dormir bem, etc..."
         autoFocus
-        className="p-4 rounded-lg mt-3 bg-zinc-800 text-white placeholder:text-zinc-400"
+        className="p-4 rounded-lg mt-3 bg-zinc-800 text-white placeholder:text-zinc-400 transition-colors"
         onChange={event => setTitle(event.target.value)}
         value={title}
       />
@@ -94,7 +94,7 @@ export function NewHabitForm() {
         {availableWeekDays.map((weekDay, index) => {
           return (
             <Checkbox.Root
-              className="flex items-center gap-3 group"
+              className="flex items-center gap-3 group transition-colors"
               checked={weekDays.includes(index)}
               key={weekDay}
               onCheckedChange={() => {
