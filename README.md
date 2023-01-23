@@ -63,14 +63,14 @@ A ideia é que seja uma plataforma de hábitos para começar o 2023 bem!
 
 | Home                        | New Habit Modal             |
 | --------------------------- | --------------------------- |
-| <img src="./assets/home" /> | <img src="./assets/home" /> |
+| <img src="https://github.com/Wallysson/habits/blob/main/assets/Desktop-Home.png" /> | <img src="https://github.com/Wallysson/habits/blob/main/assets/Desktop-NewHabit.png" /> |
 
 ### Mobile
 
-| Home                                                                                                                  | AdsGame                                                                                                              | Discord User                                                                                                                 |
-| --------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------- |
-| <img src="https://github.com/Wallysson/nlw-esports-ignite/blob/main/web/src/assets/Mobile-Home.jpeg" width='275px' /> | <img src="https://github.com/Wallysson/nlw-esports-ignite/blob/main/web/src/assets/Mobile-Ads.jpeg" width='275px' /> | <img src="https://github.com/Wallysson/nlw-esports-ignite/blob/main/web/src/assets/Mobile-DiscordUser.jpeg" width='275px' /> |
+| Home                        | New Habit Modal             |
+| --------------------------- | --------------------------- |
+| <img src="https://github.com/Wallysson/habits/blob/main/assets/Mobile-Home.png" width='275px'/> | <img src="https://github.com/Wallysson/habits/blob/main/assets/Mobile-NewHabit.png" width='275px'/> |
 
-| Home                                                                                                                  | AdsGame                                                                                                              | Discord User                                                                                                                 |
-| --------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------- |
-| <img src="https://github.com/Wallysson/nlw-esports-ignite/blob/main/web/src/assets/Mobile-Home.jpeg" width='275px' /> | <img src="https://github.com/Wallysson/nlw-esports-ignite/blob/main/web/src/assets/Mobile-Ads.jpeg" width='275px' /> | <img src="https://github.com/Wallysson/nlw-esports-ignite/blob/main/web/src/assets/Mobile-DiscordUser.jpeg" width='275px' /> |
+| Specific Day                        | No Specific Day             |
+| --------------------------- | --------------------------- |
+| <img src="https://github.com/Wallysson/habits/blob/main/assets/Mobile-SpecificDay.png" width='275px'/> | <img src="https://github.com/Wallysson/habits/blob/main/assets/Mobile-NoSpecificDay.png" width='275px'/> |
